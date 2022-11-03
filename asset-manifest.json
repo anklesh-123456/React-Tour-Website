@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Tour-Website/static/css/main.3bcfbceb.css",
+    "main.js": "/React-Tour-Website/static/js/main.53223332.js",
+    "static/media/3.jpg": "/React-Tour-Website/static/media/3.84d5235cc693e15661d6.jpg",
+    "static/media/2.jpg": "/React-Tour-Website/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/1.jpg": "/React-Tour-Website/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/12.jpg": "/React-Tour-Website/static/media/12.257c5311e1cae5638aad.jpg",
+    "static/media/8.jpg": "/React-Tour-Website/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/img.jpg": "/React-Tour-Website/static/media/img.4e05635750afada848c3.jpg",
+    "static/media/5.jpg": "/React-Tour-Website/static/media/5.46b372902997b3fbd648.jpg",
+    "static/media/6.jpg": "/React-Tour-Website/static/media/6.c405c8228d51cdef5d0f.jpg",
+    "static/media/4.jpg": "/React-Tour-Website/static/media/4.0c7885e97d08f0a61db1.jpg",
+    "static/media/night.jpg": "/React-Tour-Website/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/React-Tour-Website/index.html",
+    "main.3bcfbceb.css.map": "/React-Tour-Website/static/css/main.3bcfbceb.css.map",
+    "main.53223332.js.map": "/React-Tour-Website/static/js/main.53223332.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bcfbceb.css",
+    "static/js/main.53223332.js"
+  ]
+}
